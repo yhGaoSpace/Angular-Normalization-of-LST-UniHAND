@@ -1,0 +1,54 @@
+1. GG_LS_MC_L0_GA_lowLAT_noDTR.pkl
+Description: The completed model used for mid-to-low latitude vegetation. The input data should be entered in the following order.
+1. LON
+2. LAT
+3. DSR
+4. ULR
+5. SOILT
+6. SOILV
+7. LAI
+8. EVI
+9. TH
+10. GPP
+11. NDWI
+12. DEM
+13. ELESD
+14. SLOPE
+15. modisLST
+16. modisAngle
+17. landsatLST
+
+2. GG_LS_MC_L0_highLAT_noTH.pkl
+Description: The completed model used for mid-to-low latitude vegetation. The input data should be entered in the following order.
+1. LON
+2. LAT
+3. DSR
+4. ULR
+5. SOILT
+6. SOILV
+7. LAI
+8. EVI
+9. GPP
+10. NDWI
+11. DEM
+12. ELESD
+13. SLOPE
+14. modisLST
+15. modisAngle
+16. landsatLST
+
+3. GG_LS_MC_L16_GA_lowLAT.pkl
+Description: The completed model used for mid-to-low latitude vegetation. The input data should be entered in the following order.
+1. LON
+2. LAT
+3. DSR
+4. ULR
+5. SOILT
+6. SOILV
+7. DTR
+8. DEM
+9. ELESD
+10. SLOPE
+11. modisLST
+12. modisAngle
+13. landsatLST
